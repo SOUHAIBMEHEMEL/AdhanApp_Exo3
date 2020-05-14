@@ -632,6 +632,7 @@ drawable abc_textfield_search_material
 drawable abc_vector_test
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+drawable kaaba
 drawable notification_action_background
 drawable notification_bg
 drawable notification_bg_low
@@ -681,8 +682,7 @@ id barrier
 id beginning
 id blocking
 id bottom
-id btnSend
-id btnStartService
+id btnStop
 id buttonPanel
 id center
 id center_horizontal
@@ -842,6 +842,8 @@ layout select_dialog_singlechoice_material
 layout support_simple_spinner_dropdown_item
 mipmap ic_launcher
 mipmap ic_launcher_round
+raw adhan
+raw stop
 string abc_action_bar_home_description
 string abc_action_bar_up_description
 string abc_action_menu_overflow_description

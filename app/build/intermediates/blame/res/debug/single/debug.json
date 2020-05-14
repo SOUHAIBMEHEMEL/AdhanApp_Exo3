@@ -184,6 +184,10 @@
         "source": "C:\\Users\\MAS\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\90ffcbccf159d5d26e7d4fefec9e5b4e\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
     },
     {
+        "merged": "C:\\Users\\MAS\\Desktop\\2CS-SIL\\TDM2\\Serie2\\AdhanApp\\app\\build\\intermediates\\res\\merged\\debug\\raw_adhan.mp3.flat",
+        "source": "C:\\Users\\MAS\\Desktop\\2CS-SIL\\TDM2\\Serie2\\AdhanApp\\app\\src\\main\\res\\raw\\adhan.mp3"
+    },
+    {
         "merged": "C:\\Users\\MAS\\Desktop\\2CS-SIL\\TDM2\\Serie2\\AdhanApp\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_color_highlight_material.xml.flat",
         "source": "C:\\Users\\MAS\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\90ffcbccf159d5d26e7d4fefec9e5b4e\\res\\color-v23\\abc_color_highlight_material.xml"
     },
@@ -428,6 +432,10 @@
         "source": "C:\\Users\\MAS\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\90ffcbccf159d5d26e7d4fefec9e5b4e\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
     },
     {
+        "merged": "C:\\Users\\MAS\\Desktop\\2CS-SIL\\TDM2\\Serie2\\AdhanApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_kaaba.png.flat",
+        "source": "C:\\Users\\MAS\\Desktop\\2CS-SIL\\TDM2\\Serie2\\AdhanApp\\app\\src\\main\\res\\drawable-v24\\kaaba.png"
+    },
+    {
         "merged": "C:\\Users\\MAS\\Desktop\\2CS-SIL\\TDM2\\Serie2\\AdhanApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\MAS\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\90ffcbccf159d5d26e7d4fefec9e5b4e\\res\\drawable-xxhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
     },
@@ -618,6 +626,10 @@
     {
         "merged": "C:\\Users\\MAS\\Desktop\\2CS-SIL\\TDM2\\Serie2\\AdhanApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-watch-v20_abc_alert_dialog_button_bar_material.xml.flat",
         "source": "C:\\Users\\MAS\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\90ffcbccf159d5d26e7d4fefec9e5b4e\\res\\layout-watch-v20\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\MAS\\Desktop\\2CS-SIL\\TDM2\\Serie2\\AdhanApp\\app\\build\\intermediates\\res\\merged\\debug\\raw_stop.mp3.flat",
+        "source": "C:\\Users\\MAS\\Desktop\\2CS-SIL\\TDM2\\Serie2\\AdhanApp\\app\\src\\main\\res\\raw\\stop.mp3"
     },
     {
         "merged": "C:\\Users\\MAS\\Desktop\\2CS-SIL\\TDM2\\Serie2\\AdhanApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
@@ -1332,16 +1344,16 @@
         "source": "C:\\Users\\MAS\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\993398316b21738f556d7ffef2a2657b\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
     },
     {
-        "merged": "C:\\Users\\MAS\\Desktop\\2CS-SIL\\TDM2\\Serie2\\AdhanApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\MAS\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\90ffcbccf159d5d26e7d4fefec9e5b4e\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+        "merged": "C:\\Users\\MAS\\Desktop\\2CS-SIL\\TDM2\\Serie2\\AdhanApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\MAS\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\90ffcbccf159d5d26e7d4fefec9e5b4e\\res\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
     },
     {
         "merged": "C:\\Users\\MAS\\Desktop\\2CS-SIL\\TDM2\\Serie2\\AdhanApp\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_search_url_text.xml.flat",
         "source": "C:\\Users\\MAS\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\90ffcbccf159d5d26e7d4fefec9e5b4e\\res\\color\\abc_search_url_text.xml"
     },
     {
-        "merged": "C:\\Users\\MAS\\Desktop\\2CS-SIL\\TDM2\\Serie2\\AdhanApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\MAS\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\90ffcbccf159d5d26e7d4fefec9e5b4e\\res\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+        "merged": "C:\\Users\\MAS\\Desktop\\2CS-SIL\\TDM2\\Serie2\\AdhanApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\MAS\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\90ffcbccf159d5d26e7d4fefec9e5b4e\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
         "merged": "C:\\Users\\MAS\\Desktop\\2CS-SIL\\TDM2\\Serie2\\AdhanApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",

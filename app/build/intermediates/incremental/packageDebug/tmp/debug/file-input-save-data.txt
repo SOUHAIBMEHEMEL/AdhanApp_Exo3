@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Wed May 13 23:05:34 WAT 2020
+#Thu May 14 04:56:28 WAT 2020
 1.base=C\:\\Users\\MAS\\Desktop\\2CS-SIL\\TDM2\\Serie2\\AdhanApp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\2
 2.path=classes.dex
 0.baseType=DIRECTORY
